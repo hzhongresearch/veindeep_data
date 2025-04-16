@@ -2,6 +2,8 @@
 
 VeinDeep is a system which uses an infrared (IR) depth sensor to extract vein patterns from a person’s hand. The idea is in the future smartphones will be equipped with Kinect V2 like IR depth sensors. Such sensors can be used to identify the smartphone owner using vein patterns and provide a way to unlock the phone. This project was created during my PhD. The associated research paper was presented at PerCom 2017.
 
+This is the dataset for VeinDeep.
+
 If you use this work please cite our paper.
 
 ```
