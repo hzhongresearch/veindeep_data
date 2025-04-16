@@ -24,7 +24,7 @@ https://hzhongresearch.github.io/
 ```
 
 ### Licence
-Copyright 2017 HENRY ZHONG. The data is released under Creative Commons Attribution-ShareAlike 4.0 International Licence. See LICENCE.txt for details.
+Copyright 2017 HENRY ZHONG. The data is released under Creative Commons Attribution 4.0 International Licence. See LICENCE.txt for details.
 
 ### Description of data
 There were 20 participants. 12 males and 8 females. 17 were graduate students aged between 20 to 35 years. One individual aged 18, 2 aged between 50 - 60. The recordings were conducted in an office environment. There are a total of 240 recorded instances. 20 participants, 40 hands, 6 recording per hand.
